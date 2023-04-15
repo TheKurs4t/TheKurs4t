@@ -1,7 +1,7 @@
 <div id="top"></div>
 <br />
 <div align="center">
-<img src="images/TheKurs4t-K_Banner.gif" alt="Logo" width="340" height="128">
+<img src="images/TheKurs4t-K_Banner.gif" alt="Logo" width="480" height="180">
 </a>
 </div>
 
